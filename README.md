@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# 👋 Hi, I'm Jaswanth
+# 👋 Hi, I'm Muddavaram Jaswanth
 
 🚀 Full Stack Developer (MERN)
 
