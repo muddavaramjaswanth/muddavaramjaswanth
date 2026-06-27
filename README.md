@@ -1,16 +1,57 @@
-## Hi there 👋
+# 👋 Hi, I'm Muddavaram Jaswanth
 
-<!--
-**muddavaramjaswanth/muddavaramjaswanth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Developer (MERN)  
+💡 Passionate about building real-world web applications  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+- 🎓 Engineering Student
+- 💻 Learning Full Stack Development
+- 🔧 Currently working on Backend + Databases
+- 🎯 Goal: Become a job-ready Full Stack Developer
+
+---
+
+## 🛠 Tech Stack
+
+### 🌐 Frontend
+- HTML, CSS, JavaScript
+- React.js (Learning)
+
+### ⚙️ Backend
+- Node.js
+- Express.js
+
+### 🗄️ Database
+- MongoDB
+
+### 🧰 Tools
+- Git & GitHub
+- VS Code
+- Postman
+
+---
+
+## 🚀 Current Projects
+- 🔐 Authentication System (MERN)
+- 🛒 Full Stack E-commerce (Coming Soon)
+- 💬 Real-Time Chat App (Planned)
+
+---
+
+## 📈 Learning Focus
+- Advanced JavaScript
+- Backend Development
+- System Design Basics
+
+---
+
+## 🌐 Connect With Me
+- 💼 LinkedIn: https://www.linkedin.com/in/muddavaram-jaswanth-162a57346/
+- 💻 GitHub: https://github.com/muddavaramjaswanth
+
+---
+
+## ⚡ Fun Fact
+I build projects to learn — not just to complete tasks 🚀
