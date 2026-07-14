@@ -47,9 +47,9 @@
 
 ## 🚀 Current Projects
 
-* 🔐 Authentication System (MERN)
-* 🛒 Full Stack E-commerce (Coming Soon)
-* 💬 Real-Time Chat App (Planned)
+* 🛍️ Responsive E-commerce Web Application
+* 🏦 Bank Management System
+* 🍔 Online Food Ordering System
 
 ---
 
